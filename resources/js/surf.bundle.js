@@ -10414,7 +10414,7 @@
                   a.createElement(
                     x.nv,
                     null,
-                    "Parker Young, Scott Porterfield, Patrick Evan Little, Connor Smith, William Devereux, Adina Shanholtz"
+                    "Aryan Patel"
                   ),
                   a.createElement(
                     S.X6,
@@ -10430,7 +10430,7 @@
                   a.createElement(
                     x.nv,
                     null,
-                    "Jonathan Merrin, Charles Duval, Addison Kaufmann, Rachel Weil, Joseph Oak, Amanda Velasco Gallardo, Ramya Challa, Chris Pirih"
+                    "Harsh Singh,Jack Talyor,Aryan Patel"
                   )
                 )
               ),
