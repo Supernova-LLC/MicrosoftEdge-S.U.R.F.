@@ -7,9 +7,6 @@ The *Let's Surf* game from ``edge://surf``
 
 The game is created by Microsoft – please see the **Credits** in the game menu for more information. The files in this repo are from Microsoft Edge; however, some of them have been modified so the game can function independently from Edge.
 
-## Play
-Play the game online at https://surf.jackbuehner.com
-
 ### Features
 - Endless mode: Surf as far as you can while avoiding obstacles and the kraken. You can switch modes via the game settings menu.
 - Time trials: Reach the end of the course as fast as you can! Collect coins to shorten your time. The course is always the same, so can you find the shortest route?
@@ -26,9 +23,7 @@ Play the game online at https://surf.jackbuehner.com
 - Added the ``manifest.json`` file so the site can be installed as a PWA app.
 - Pretty-printed the ``surf.bundle.js`` file to ease the modification process.
   - Use ``localStorage`` function to save the stats instead of the original [WebUI](https://chromium.googlesource.com/chromium/src/+/HEAD/docs/webui_explainer.md) ones (``chrome.send`` in particular).
-- Added mobile support. The game is responsive to most screen sizes.
 
-More information can be seen in past [pull requests](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F./pulls?q=is%3Apr+is%3Aclosed) and [releases](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F./releases).
 
 ## Contribute
 If you know how to fix anything that is not working, feel free to open a pull request. I'll merge it as soon as I see it and confirm it does not break anything.
